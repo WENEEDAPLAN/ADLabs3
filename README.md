@@ -28,7 +28,8 @@
 - В игре возможно изменить 4 переменные
 - Я предлагаю менять их одновременно и линейно
 
-![image](https://github.com/WENEEDAPLAN/ADLabs31/assets/117916056/b9d4c215-4bd7-4bb1-a37a-3b4190d42000)
+![image](https://github.com/WENEEDAPLAN/ADLabs3/assets/117916056/3a1ee08a-6baa-4d30-aa02-f373adef2d58)
+
 
 
 ## Задание 2
@@ -36,7 +37,8 @@
 Ход работы:
 - Я изменил значения переменных в соответсвтвии с данными в таблице на всех уровнях игры
 
-![image](https://github.com/WENEEDAPLAN/ADLabs31/assets/117916056/5148954f-cf31-4dc3-91c4-6cc1ac1fdcca)
+![image](https://github.com/WENEEDAPLAN/ADLabs3/assets/117916056/8537477c-403f-433d-a9a8-8c40894c40f5)
+
 
 
 
@@ -80,7 +82,8 @@ sh.sheet1.update('A1:F' + str(total_columns + 1), update_data)
 
 ```
 
-![image](https://github.com/WENEEDAPLAN/ADLabs31/assets/117916056/2452d1ec-ba8a-431a-ba44-350abc1a39c9)
+![image](https://github.com/WENEEDAPLAN/ADLabs3/assets/117916056/6efc0067-2201-4c87-a9d3-39c6ebce5c17)
+
 
 
 
